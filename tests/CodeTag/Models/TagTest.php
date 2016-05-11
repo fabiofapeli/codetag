@@ -6,7 +6,7 @@ use CodePress\CodeTag\Models\Tag;
 use CodePress\CodeTag\Tests\AbstractTestCase;
 
 
-class CategoryTest extends AbstractTestCase
+class TagTest extends AbstractTestCase
 {
     public function setUp(){
         parent::setUp();
